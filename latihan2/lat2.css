@@ -1,0 +1,23 @@
+#elemen1 { 
+    background-color: black;
+    color: white; 
+    width: 100px;
+    height: 80px; 
+    margin-top: 30px; 
+    margin-left: 40px;
+}
+
+#elemen2 {
+    background-color: rgb(127, 255, 170);
+    color: #333;
+    width: 300px;
+    height: 150px;
+    margin: 25px 200px 30px;
+}
+
+.paragraf1 {
+    background-color: rgb(33, 96, 222);
+    width: 500px;
+    height: 50px;
+    margin: 30px auto;
+}
